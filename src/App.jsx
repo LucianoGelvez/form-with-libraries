@@ -9,7 +9,6 @@ function App() {
 
   return (
     <>
-    <h1>sdsad</h1>
     <BrowserRouter>
     <Routes>
       <Route path='/' element={<Formulario/>}/>
